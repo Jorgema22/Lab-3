@@ -34,4 +34,4 @@ Taller-Aspirantes/
 - `.htaccess` en `uploaded_files/` que bloquea el acceso desde el navegador
 
 ## Autor
-Nombre del estudiante – Grupo – UTP
+Jorge Sanchez – 1S3122 – UTP
